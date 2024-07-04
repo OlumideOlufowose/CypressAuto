@@ -1,0 +1,39 @@
+{
+  "msg": "Hello AaBc 123@#!.?",
+  "a": "20",
+  "b": "18.4",
+  "getSum": "38",
+  "day": "Tuesday",
+  "state": "Texas",
+  "ASM": "Autocloseable success message",
+  "NSM": "Normal success message",
+  "AWM": "Autocloseable warning message",
+  "NWM": "Normal warning message",
+  "ADM": "Autocloseable danger message",
+  "NDM": "Normal danger message",
+  "AIM": "Autocloseable info message",
+  "NIM": "Normal info message",
+  "lchMod": "Launch modal",
+  "singModMsg": "This is the place",
+  "savChg": "Save",
+  "firModTtl": "First",
+  "pryModMsg": "launch second modal",
+  "secModMsg": "This is the place",
+  
+
+  "secModTtl": "Modal 2",
+
+  "SFD_URL": "https://demo.seleniumeasy.com/basic-first-form-demo.html",
+  "SFD_PagTitle": "Selenium Easy Demo - Simple Form to Automate using Selenium",
+
+  "SLD_URL":"https://demo.seleniumeasy.com/basic-select-dropdown-demo.html",
+  "SLD_PagTitle": "Selenium Easy Demo - Automate All Scenarios", 
+
+  "BA_URL":"https://demo.seleniumeasy.com/bootstrap-alert-messages-demo.html",
+  "BA_PagTitle": "Selenium Easy - Bootstrap Alerts Demo for Automation", 
+
+  "BM_URL":"https://demo.seleniumeasy.com/bootstrap-modal-demo.html",
+  "BM_PagTitle": "Selenium Easy Demo - Bootstrap Modal Demo to Automate"
+
+
+}
