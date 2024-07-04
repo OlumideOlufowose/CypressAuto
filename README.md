@@ -1,5 +1,5 @@
 # CypressAuto
- Automated Web-Based Tests Using Cypress Javascript Framewark with a Page Object Model Approach.
+ Automated Web-Based Tests Using Cypress Javascript Framework with a Page Object Model Approach.
 
 Pre-requisite for Cypress Automation
 
