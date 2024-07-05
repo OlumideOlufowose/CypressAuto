@@ -18,7 +18,7 @@ Steps to Executing Test
 - Install Cypress Application using "npm install cypress" command
   * npm install cypress
 - Start Cypress application using the 'npm cypress open' command
-  * npm cypress open
+  * npx cypress open
 - On Cypress application, select E2E testing
 - Select Chrome browser
 - Click "new_quidax.cy.js" to start testing
