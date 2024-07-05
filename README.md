@@ -8,8 +8,10 @@ Pre-requisite for Cypress Automation
 - Download and Install any preferred text editor (Visual Studio Code Recommended)
 
 Steps to Executing Test
-- Open your terminal or command prompt.
-- use the 'git clone' command  to Clone this Repository.
+- Create a project folder.
+- Open your terminal or command prompt using "cd " command
+  * cd project folder
+- use the 'git clone' command to Clone this Repository into project folder.
   * git clone https://github.com/OlumideOlufowose/CypressAuto.git
 - Open the project folder in Visual Studio Code
 - Open the terminal on Visual Studio code and install dependencies using the 'npm install' command
