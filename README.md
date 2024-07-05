@@ -15,6 +15,8 @@ Steps to Executing Test
 - Open the terminal on Visual Studio code and install dependencies using the 'npm install' command
   * npm install
 - Follow the prompts to create a package.json file
+- Install Cypress Application using "npm cypress --sav -dev" command
+  * npm cypress install --save -dev
 - Start Cypress application using the 'npm cypress open' command
   * npm cypress open
 - On Cypress application, select E2E testing
