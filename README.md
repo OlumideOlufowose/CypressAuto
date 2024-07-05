@@ -9,17 +9,17 @@ Pre-requisite for Cypress Automation
 
 Steps to Executing Test
 - Create a project folder.
-- Open your terminal or command prompt using "cd " command
-  * cd project folder
+- Open your terminal or command prompt, locate project folder directory using "cd" command and file directory path
+  * cd path/project folder
 - use the 'git clone' command to Clone this Repository into project folder.
   * git clone https://github.com/OlumideOlufowose/CypressAuto.git
-- Open the project folder in Visual Studio Code
+- Open locate and open cloned repository in Visual Studio Code
 - Open the terminal on Visual Studio code and install dependencies using the 'npm install' command
   * npm install
 - Install Cypress Application using "npm install cypress" command
   * npm install cypress
-- Start Cypress application using the 'npm cypress open' command
+- Start Cypress application using the 'npx cypress open' command
   * npx cypress open
 - On Cypress application, select E2E testing
 - Select Chrome browser
-- Click "new_quidax.cy.js" to start testing
+- Click on the test file named "new_quidax.cy.js" to start testing
