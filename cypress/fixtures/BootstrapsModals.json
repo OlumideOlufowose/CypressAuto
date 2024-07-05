@@ -1,0 +1,12 @@
+{
+    "lchMod": "Launch modal",
+    "singModMsg": "This is the place",
+    "savChg": "Save",
+    "firModTtl": "First",
+    "pryModMsg": "launch second modal",
+    "secModMsg": "This is the place",
+    "secModTtl": "Modal 2",
+
+    "BM_URL":"https://demo.seleniumeasy.com/bootstrap-modal-demo.html",
+    "BM_PagTitle": "Selenium Easy Demo - Bootstrap Modal Demo to Automate"
+}

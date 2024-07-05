@@ -1,0 +1,14 @@
+{
+    "ASM": "Autocloseable success message",
+    "NSM": "Normal success message",
+    "AWM": "Autocloseable warning message",
+    "NWM": "Normal warning message",
+    "ADM": "Autocloseable danger message",
+    "NDM": "Normal danger message",
+    "AIM": "Autocloseable info message",
+    "NIM": "Normal info message",
+
+
+    "BA_URL":"https://demo.seleniumeasy.com/bootstrap-alert-messages-demo.html",
+    "BA_PagTitle": "Selenium Easy - Bootstrap Alerts Demo for Automation"
+}

@@ -34,7 +34,7 @@ describe("Quidax Assesssment", () =>
             it ("Select List Demo Test", () => 
                 {  
     
-                    cy.fixture("SimpleForm").then((test_data) => 
+                    cy.fixture("SelectList").then((test_data) => 
                         {
                             const test = new SelectListDemo()
                                 
@@ -60,7 +60,7 @@ describe("Quidax Assesssment", () =>
             it ("BootStrap Alerts Test", () => 
                 {  
         
-                    cy.fixture("SimpleForm").then((test_data) => 
+                    cy.fixture("BootstrapAlerts").then((test_data) => 
                         {
                             const test = new BootstrapAlerts()
                                 
@@ -89,7 +89,7 @@ describe("Quidax Assesssment", () =>
             it ("BootStrap Modals Test", () => 
                 {  
             
-                    cy.fixture("SimpleForm").then((test_data) => 
+                    cy.fixture("BootstrapsModals").then((test_data) => 
                         {
                             const test = new BootstrapModals()
                                 
@@ -115,18 +115,6 @@ describe("Quidax Assesssment", () =>
                         })
                         
                     })
-
-
-
-
-
-
-        
-
-   
-
-
-
 
 
 
