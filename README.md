@@ -13,7 +13,7 @@ Steps to Executing Test
   * cd path/project folder
 - use the 'git clone' command to clone this repository into project folder.
   * git clone https://github.com/OlumideOlufowose/CypressAuto.git
-- Open Visual Studio Code, locate and open cloned repository using the file explorer
+- Open Visual Studio Code, locate and open cloned repository using the Visual Studio Code file explorer
 - Open the terminal on Visual Studio code and install dependencies using the 'npm install' command
   * npm install
 - Install Cypress Application using "npm install cypress" command
