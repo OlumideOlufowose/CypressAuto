@@ -22,4 +22,4 @@ Steps to Executing Test
   * npx cypress open
 - On Cypress application, select E2E testing
 - Select Chrome browser
-- Click on the test file named "new_quidax.cy.js" to start testing
+- Click on the test file named "new_test.cy.js" to start testing
