@@ -3,7 +3,7 @@ import SelectListDemo from "../PageObjects/SelectListDemo";
 import BootstrapAlerts from "../PageObjects/BootstrapAlerts";
 import BootstrapModals from "../PageObjects/BootstrapModals";
 
-describe("Quidax Assesssment", () => 
+describe("Test Automation", () => 
 {
     
             it ("Simple Form Demo Test", () => 
